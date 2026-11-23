@@ -1,0 +1,37 @@
+/* Mise en page globale du CV */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 20px;
+  background-color: #f4f6f8;
+  color: #222;
+}
+
+/* En-tête */
+header {
+  background-color: #1f4e78;
+  color: #ffffff;
+  padding: 20px;
+  border-radius: 6px;
+}
+
+/* Sections */
+section {
+  background-color: #ffffff;
+  margin-top: 16px;
+  padding: 16px;
+  border-radius: 6px;
+}
+
+h2 {
+  color: #1f4e78;
+  margin-top: 0;
+}
+
+/* Pied de page */
+footer {
+  margin-top: 20px;
+  font-size: 0.9rem;
+  color: #555;
+}
